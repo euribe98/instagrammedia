@@ -2,7 +2,7 @@
 ## Synopsis
 Uses Instagram api to get a user's recent media.  There are 2 options<br>
 1. Use supported instagram api that requires authorization via an  access token.<br>
-   This option requires additional steps to get an authorization token
+   This option requires additional steps to get an authorization token<br>
 2. Uses, possibly unsupported api, that does not require authorization.
 
 
