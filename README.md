@@ -78,7 +78,5 @@ https://www.instagram.com/developer/endpoints/users/
 ## Tests
 See the home page of:  www.bellasjardin.com 
 
-## Contributors
-Evan Uribe
 
 
